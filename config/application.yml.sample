@@ -1,0 +1,5 @@
+DB_USERNAME: 'root'
+DB_PASSWORD: 'password'
+DB_HOST: '0.0.0.0'
+DB_NAME: 'db_name'
+DISABLE_MAIL_CATCHER: ''
