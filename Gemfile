@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby '2.7.8'
+ruby '3.2.2'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'bootsnap', '>= 1.4.2', require: false
@@ -9,7 +9,7 @@ gem 'figaro'
 gem 'jbuilder', '~> 2.7'
 gem 'mysql2'
 gem 'puma', '~> 4.1'
-gem 'rails', '~> 7.0.0', '>= 7.0.0'
+gem 'rails', '~> 7.0.1', '>= 7.0.1'
 gem 'sass-rails', '>= 6'
 gem 'slim'
 gem 'webpacker', '~> 4.0'
